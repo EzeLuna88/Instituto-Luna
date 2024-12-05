@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<roles>
+  <rol codigo="1">
+    <nombre>Bedelia</nombre>
+  </rol>
+  <rol codigo="2">
+    <nombre>Finanzas</nombre>
+  </rol>
+  <rol codigo="3">
+    <nombre>Profesor</nombre>
+  </rol>
+  <rol codigo="4">
+    <nombre>Director</nombre>
+  </rol>
+</roles>

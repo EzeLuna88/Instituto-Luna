@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ARCHIVOS VARIOS\\UAI\\2DO A\u00D1O\\2DO CUATRIMESTRE\\LENGUAJES DE ULTIMA GENERACION\\Instituto Luna\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBB3E4C-4950-4210-B286-4E746244D6FE}|LUGtp1\\IU.csproj|d:\\archivos varios\\uai\\2do a\u00F1o\\2do cuatrimestre\\lenguajes de ultima generacion\\instituto luna\\lugtp1\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBB3E4C-4950-4210-B286-4E746244D6FE}|LUGtp1\\IU.csproj|solutionrelative:lugtp1\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBB3E4C-4950-4210-B286-4E746244D6FE}|LUGtp1\\IU.csproj|D:\\ARCHIVOS VARIOS\\UAI\\2DO A\u00D1O\\2DO CUATRIMESTRE\\LENGUAJES DE ULTIMA GENERACION\\Instituto Luna\\lugtp1\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FBB3E4C-4950-4210-B286-4E746244D6FE}|LUGtp1\\IU.csproj|solutionrelative:lugtp1\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBB3E4C-4950-4210-B286-4E746244D6FE}|LUGtp1\\IU.csproj|D:\\ARCHIVOS VARIOS\\UAI\\2DO A\u00D1O\\2DO CUATRIMESTRE\\LENGUAJES DE ULTIMA GENERACION\\Instituto Luna\\lugtp1\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBB3E4C-4950-4210-B286-4E746244D6FE}|LUGtp1\\IU.csproj|solutionrelative:lugtp1\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBB3E4C-4950-4210-B286-4E746244D6FE}|LUGtp1\\IU.csproj|D:\\ARCHIVOS VARIOS\\UAI\\2DO A\u00D1O\\2DO CUATRIMESTRE\\LENGUAJES DE ULTIMA GENERACION\\Instituto Luna\\lugtp1\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FBB3E4C-4950-4210-B286-4E746244D6FE}|LUGtp1\\IU.csproj|solutionrelative:lugtp1\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBB3E4C-4950-4210-B286-4E746244D6FE}|LUGtp1\\IU.csproj|D:\\ARCHIVOS VARIOS\\UAI\\2DO A\u00D1O\\2DO CUATRIMESTRE\\LENGUAJES DE ULTIMA GENERACION\\Instituto Luna\\lugtp1\\frmrestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBB3E4C-4950-4210-B286-4E746244D6FE}|LUGtp1\\IU.csproj|solutionrelative:lugtp1\\frmrestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBB3E4C-4950-4210-B286-4E746244D6FE}|LUGtp1\\IU.csproj|D:\\ARCHIVOS VARIOS\\UAI\\2DO A\u00D1O\\2DO CUATRIMESTRE\\LENGUAJES DE ULTIMA GENERACION\\Instituto Luna\\lugtp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0FBB3E4C-4950-4210-B286-4E746244D6FE}|LUGtp1\\IU.csproj|solutionrelative:lugtp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\ARCHIVOS VARIOS\\UAI\\2DO A\u00D1O\\2DO CUATRIMESTRE\\LENGUAJES DE ULTIMA GENERACION\\Instituto Luna\\LUGtp1\\FrmDashboard.cs",
+              "RelativeDocumentMoniker": "LUGtp1\\FrmDashboard.cs",
+              "ToolTip": "D:\\ARCHIVOS VARIOS\\UAI\\2DO A\u00D1O\\2DO CUATRIMESTRE\\LENGUAJES DE ULTIMA GENERACION\\Instituto Luna\\LUGtp1\\FrmDashboard.cs [Design]",
+              "RelativeToolTip": "LUGtp1\\FrmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:22:47.415Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDashboard.cs",
+              "DocumentMoniker": "D:\\ARCHIVOS VARIOS\\UAI\\2DO A\u00D1O\\2DO CUATRIMESTRE\\LENGUAJES DE ULTIMA GENERACION\\Instituto Luna\\LUGtp1\\FrmDashboard.cs",
+              "RelativeDocumentMoniker": "LUGtp1\\FrmDashboard.cs",
+              "ToolTip": "D:\\ARCHIVOS VARIOS\\UAI\\2DO A\u00D1O\\2DO CUATRIMESTRE\\LENGUAJES DE ULTIMA GENERACION\\Instituto Luna\\LUGtp1\\FrmDashboard.cs",
+              "RelativeToolTip": "LUGtp1\\FrmDashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:22:21.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\ARCHIVOS VARIOS\\UAI\\2DO A\u00D1O\\2DO CUATRIMESTRE\\LENGUAJES DE ULTIMA GENERACION\\Instituto Luna\\LUGtp1\\App.config",
+              "RelativeDocumentMoniker": "LUGtp1\\App.config",
+              "ToolTip": "D:\\ARCHIVOS VARIOS\\UAI\\2DO A\u00D1O\\2DO CUATRIMESTRE\\LENGUAJES DE ULTIMA GENERACION\\Instituto Luna\\LUGtp1\\App.config",
+              "RelativeToolTip": "LUGtp1\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-14T14:04:39.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmRestore.cs",
+              "DocumentMoniker": "D:\\ARCHIVOS VARIOS\\UAI\\2DO A\u00D1O\\2DO CUATRIMESTRE\\LENGUAJES DE ULTIMA GENERACION\\Instituto Luna\\LUGtp1\\FrmRestore.cs",
+              "RelativeDocumentMoniker": "LUGtp1\\FrmRestore.cs",
+              "ToolTip": "D:\\ARCHIVOS VARIOS\\UAI\\2DO A\u00D1O\\2DO CUATRIMESTRE\\LENGUAJES DE ULTIMA GENERACION\\Instituto Luna\\LUGtp1\\FrmRestore.cs",
+              "RelativeToolTip": "LUGtp1\\FrmRestore.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:02:43.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "D:\\ARCHIVOS VARIOS\\UAI\\2DO A\u00D1O\\2DO CUATRIMESTRE\\LENGUAJES DE ULTIMA GENERACION\\Instituto Luna\\LUGtp1\\Principal.cs",
+              "RelativeDocumentMoniker": "LUGtp1\\Principal.cs",
+              "ToolTip": "D:\\ARCHIVOS VARIOS\\UAI\\2DO A\u00D1O\\2DO CUATRIMESTRE\\LENGUAJES DE ULTIMA GENERACION\\Instituto Luna\\LUGtp1\\Principal.cs",
+              "RelativeToolTip": "LUGtp1\\Principal.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAACEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:02:22.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Principal.cs [Design]",
+              "DocumentMoniker": "D:\\ARCHIVOS VARIOS\\UAI\\2DO A\u00D1O\\2DO CUATRIMESTRE\\LENGUAJES DE ULTIMA GENERACION\\Instituto Luna\\LUGtp1\\Principal.cs",
+              "RelativeDocumentMoniker": "LUGtp1\\Principal.cs",
+              "ToolTip": "D:\\ARCHIVOS VARIOS\\UAI\\2DO A\u00D1O\\2DO CUATRIMESTRE\\LENGUAJES DE ULTIMA GENERACION\\Instituto Luna\\LUGtp1\\Principal.cs [Design]",
+              "RelativeToolTip": "LUGtp1\\Principal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:02:15.103Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

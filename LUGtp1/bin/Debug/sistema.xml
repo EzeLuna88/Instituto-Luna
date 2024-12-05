@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sistema>
+  <permisos>
+    <permiso codigo="1">
+      <nombre>informes</nombre>
+    </permiso>
+    <permiso codigo="2">
+      <nombre>abm carrera</nombre>
+    </permiso>
+    <permiso codigo="3">
+      <nombre>abm materia</nombre>
+    </permiso>
+    <permiso codigo="4">
+      <nombre>abm alumno</nombre>
+    </permiso>
+    <permiso codigo="5">
+      <nombre>abm profesor</nombre>
+    </permiso>
+    <permiso codigo="6">
+      <nombre>informe de asistencia</nombre>
+    </permiso>
+    <permiso codigo="7">
+      <nombre>control de asistencia</nombre>
+    </permiso>
+    <permiso codigo="8">
+      <nombre>notas</nombre>
+    </permiso>
+    <permiso codigo="9">
+      <nombre>cobrar matricula</nombre>
+    </permiso>
+  </permisos>
+  <roles>
+    <rol codigo="1">
+      <nombre>bedelia</nombre>
+      <permisos>
+        <codigo_permiso>3</codigo_permiso>
+        <codigo_permiso>4</codigo_permiso>
+        <codigo_permiso>2</codigo_permiso>
+        <codigo_permiso>5</codigo_permiso>
+      </permisos>
+    </rol>
+    <rol codigo="2">
+      <nombre>finanzas</nombre>
+      <permisos>
+        <codigo_permiso>9</codigo_permiso>
+      </permisos>
+    </rol>
+    <rol codigo="3">
+      <nombre>profesor</nombre>
+      <permisos>
+        <codigo_permiso>8</codigo_permiso>
+        <codigo_permiso>7</codigo_permiso>
+      </permisos>
+    </rol>
+    <rol codigo="4">
+      <nombre>director</nombre>
+      <permisos>
+        <codigo_permiso>1</codigo_permiso>
+        <codigo_permiso>2</codigo_permiso>
+        <codigo_permiso>3</codigo_permiso>
+        <codigo_permiso>9</codigo_permiso>
+        <codigo_permiso>8</codigo_permiso>
+        <codigo_permiso>7</codigo_permiso>
+        <codigo_permiso>6</codigo_permiso>
+        <codigo_permiso>4</codigo_permiso>
+        <codigo_permiso>5</codigo_permiso>
+      </permisos>
+    </rol>
+  </roles>
+  <usuarios>
+    <usuario dni="34146044">
+      <nombre_de_usuario>N1eeIqDe64ipoE7KvGs5sg==</nombre_de_usuario>
+      <contrasenia>8FLy5jyeI/I=</contrasenia>
+      <nombre>Ezequiel</nombre>
+      <apellido>Luna</apellido>
+      <codigo_rol>1</codigo_rol>
+    </usuario>
+    <usuario dni="34434851">
+      <nombre_de_usuario>fwVNw4IoIlbK7Rolqx3AVg==</nombre_de_usuario>
+      <contrasenia>Hnz3IfXZ6zY=</contrasenia>
+      <nombre>daniela</nombre>
+      <apellido>garcia</apellido>
+      <codigo_rol>2</codigo_rol>
+    </usuario>
+  </usuarios>
+</sistema>

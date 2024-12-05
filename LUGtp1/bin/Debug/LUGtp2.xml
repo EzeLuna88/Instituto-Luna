@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Usuarios>
+  <Usuario nombreDeUsuario="FiyYqxT6ZSU=">
+    <contrasenia>Hnz3IfXZ6zY=</contrasenia>
+    <nombre>Ezequiel</nombre>
+    <Apellido>Luna</Apellido>
+    <Dni>34146044</Dni>
+    <Permisos>
+      <Permiso>Informes</Permiso>
+      <Permiso>ABM Carrera</Permiso>
+      <Permiso>ABM Materia</Permiso>
+      <Permiso>ABM Alumno</Permiso>
+      <Permiso>ABM Profesor</Permiso>
+      <Permiso>Informe de asistencia</Permiso>
+    </Permisos>
+
+  </Usuario>
+  <Usuario nombreDeUsuario="0WVFCG3L6hEZxUbg/gpK7A==">
+    <contrasenia>2tQLF85ycYA=</contrasenia>
+    <nombre>Daniela</nombre>
+    <Apellido>Garcia</Apellido>
+    <Dni>34434851</Dni>
+  </Usuario>
+  <Usuario nombreDeUsuario="tszFlzIhmSE=">
+    <contrasenia>tszFlzIhmSE=</contrasenia>
+    <nombre>Carolin1</nombre>
+    <Apellido>Igles1</Apellido>
+    <Dni>25351559</Dni>
+  </Usuario>
+  <Usuario nombreDeUsuario="PUFhZFyU3rc=">
+    <contrasenia>CQclrPKnGAM=</contrasenia>
+    <nombre>Alexis</nombre>
+    <Apellido>Lara</Apellido>
+    <Dni>35942909</Dni>
+  </Usuario>
+  <Usuario nombreDeUsuario="frankfabra">
+    <contrasenia>nmV8k2Aa81e2zMWXMiGZIQ==</contrasenia>
+    <nombre>Frank</nombre>
+    <Apellido>Fabra</Apellido>
+    <Dni>98666985</Dni>
+  </Usuario>
+  <Usuario nombreDeUsuario="UCJm4jlBnCYoU+QXCKhWKg==">
+    <contrasenia>2L3ww+w57n+2zMWXMiGZIQ==</contrasenia>
+    <nombre>Edinson</nombre>
+    <Apellido>Cavani</Apellido>
+    <Dni>25987654</Dni>
+  </Usuario>
+  <Usuario nombreDeUsuario="o71suPrZJ15OuJBBHvpDf7bMxZcyIZkh">
+    <contrasenia>I36fNHEytu62zMWXMiGZIQ==</contrasenia>
+    <nombre>Martin</nombre>
+    <Apellido>Valenzuela</Apellido>
+    <Dni>12345678</Dni>
+    <tipoUsuario>2</tipoUsuario>
+  </Usuario>
+  <Usuario nombreDeUsuario="8OPH4CaA+fQOEUujlZwO0A==">
+    <contrasenia>NRmOCvLItQK2zMWXMiGZIQ==</contrasenia>
+    <nombre>Kevin</nombre>
+    <Apellido>Zenon</Apellido>
+    <Dni>55667788</Dni>
+    <Codigo>22</Codigo>
+    <tipoUsuario>1</tipoUsuario>
+  </Usuario>
+  <Usuario nombreDeUsuario="5ztDZ0ksqJstYfbjgACMerCy0B3oDZ0h">
+    <contrasenia>5ztDZ0ksqJstYfbjgACMerCy0B3oDZ0h</contrasenia>
+    <nombre>Carlos</nombre>
+    <Apellido>Bianchi</Apellido>
+    <Dni>81868239</Dni>
+    <tipoUsuario>2</tipoUsuario>
+  </Usuario>
+  <Usuario nombreDeUsuario="t9ImTXkANaqYuWtl6HHGfg==">
+    <contrasenia>Hnz3IfXZ6zY=</contrasenia>
+    <nombre>Luis</nombre>
+    <Apellido>Advincula</Apellido>
+    <Dni>45678912</Dni>
+    <Permisos>
+      <Permiso>Cobrar matricula</Permiso>
+    </Permisos>
+  </Usuario>
+  <Usuario nombreDeUsuario="xlnViT7HTrU8dnX/j0BtkA==">
+    <contrasenia>Hnz3IfXZ6zY=</contrasenia>
+    <nombre>Lautaro</nombre>
+    <Apellido>Blanco</Apellido>
+    <Dni>78945678</Dni>
+    <Permisos>
+      <Permiso>Informes</Permiso>
+      <Permiso>ABM Carrera</Permiso>
+      <Permiso>ABM Materia</Permiso>
+      <Permiso>ABM Alumno</Permiso>
+      <Permiso>ABM Profesor</Permiso>
+      <Permiso>Informe de asistencia</Permiso>
+    </Permisos>
+  </Usuario>
+</Usuarios>

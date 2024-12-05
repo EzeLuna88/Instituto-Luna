@@ -1,0 +1,36 @@
+C:\Users\Eze\source\repos\LUGtp1\BE\bin\Debug\BE.dll
+C:\Users\Eze\source\repos\LUGtp1\BE\bin\Debug\BE.pdb
+C:\Users\Eze\source\repos\LUGtp1\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Eze\source\repos\LUGtp1\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Eze\source\repos\LUGtp1\BE\obj\Debug\BE.dll
+C:\Users\Eze\source\repos\LUGtp1\BE\obj\Debug\BE.pdb
+C:\Users\Eze\source\repos\LUGtp1\BE\bin\Debug\Abstraccion.dll
+C:\Users\Eze\source\repos\LUGtp1\BE\bin\Debug\Abstraccion.pdb
+C:\Users\Eze\source\repos\LUGtp1\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\Eze\Desktop\LUGtp2\BE\bin\Debug\BE.dll
+C:\Users\Eze\Desktop\LUGtp2\BE\bin\Debug\BE.pdb
+C:\Users\Eze\Desktop\LUGtp2\BE\bin\Debug\Abstraccion.dll
+C:\Users\Eze\Desktop\LUGtp2\BE\bin\Debug\Abstraccion.pdb
+C:\Users\Eze\Desktop\LUGtp2\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Eze\Desktop\LUGtp2\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Eze\Desktop\LUGtp2\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\Eze\Desktop\LUGtp2\BE\obj\Debug\BE.dll
+C:\Users\Eze\Desktop\LUGtp2\BE\obj\Debug\BE.pdb
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\BE\bin\Debug\BE.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\BE\bin\Debug\BE.pdb
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\BE\bin\Debug\Abstraccion.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\BE\bin\Debug\Abstraccion.pdb
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\BE\obj\Debug\BE.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\BE\obj\Debug\BE.pdb
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\BE\obj\Debug\BE.csproj.Up2Date
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\BE\bin\Debug\BE.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\BE\bin\Debug\BE.pdb
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\BE\bin\Debug\Abstraccion.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\BE\bin\Debug\Abstraccion.pdb
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\BE\obj\Debug\BE.csproj.Up2Date
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\BE\obj\Debug\BE.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\BE\obj\Debug\BE.pdb

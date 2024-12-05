@@ -1,0 +1,511 @@
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\bin\Debug\LUGtp1.exe.config
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\bin\Debug\LUGtp1.exe
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\bin\Debug\LUGtp1.pdb
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\obj\Debug\IU.csproj.AssemblyReference.cache
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\obj\Debug\IU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\obj\Debug\LUGtp1.Properties.Resources.resources
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\obj\Debug\IU.csproj.GenerateResource.cache
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\obj\Debug\IU.csproj.CoreCompileInputs.cache
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\obj\Debug\LUGtp1.exe
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\obj\Debug\LUGtp1.pdb
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\bin\Debug\BE.dll
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\bin\Debug\BLL.dll
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\bin\Debug\BE.pdb
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\bin\Debug\BLL.pdb
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\obj\Debug\LUGtp1.FrmAbmAlumno.resources
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\obj\Debug\LUGtp1.FrmAbmCarrera.resources
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\obj\Debug\LUGtp1.FrmAbmMateria.resources
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\obj\Debug\LUGtp1.FrmAbmProfesor.resources
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\obj\Debug\IU.csproj.CopyComplete
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\obj\Debug\LUGtp1.Principal.resources
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\bin\Debug\MPP.dll
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\bin\Debug\DAL.dll
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\bin\Debug\MPP.pdb
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\bin\Debug\DAL.pdb
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\obj\Debug\LUGtp1.FrmAltaCarrera.resources
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\obj\Debug\LUGtp1.FrmAltaMateria.resources
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\obj\Debug\LUGtp1.FrmAltaProfesor.resources
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\obj\Debug\LUGtp1.FrmAltaAlumno.resources
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\obj\Debug\LUGtp1.FrmLogin.resources
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\bin\Debug\Security.dll
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\bin\Debug\Security.pdb
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\bin\Debug\Abstraccion.dll
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\bin\Debug\Abstraccion.pdb
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\obj\Debug\LUGtp1.FrmCobranzas.resources
+C:\Users\Eze\source\repos\LUGtp1\LUGtp1\obj\Debug\LUGtp1.Inicio.resources
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\LUGtp1.exe.config
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\LUGtp1.exe
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\LUGtp1.pdb
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\BE.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\BLL.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\Security.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\Abstraccion.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\MPP.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\DAL.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\BE.pdb
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\BLL.pdb
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\Security.pdb
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\Abstraccion.pdb
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\MPP.pdb
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\DAL.pdb
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\IU.csproj.AssemblyReference.cache
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\IU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmAltaAlumno.resources
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmAltaCarrera.resources
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmAltaMateria.resources
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmAltaProfesor.resources
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmCobranzas.resources
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmLogin.resources
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.Principal.resources
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmAbmAlumno.resources
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmAbmCarrera.resources
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmAbmMateria.resources
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmAbmProfesor.resources
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.Properties.Resources.resources
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\IU.csproj.GenerateResource.cache
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\IU.csproj.CoreCompileInputs.cache
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\IU.csproj.CopyComplete
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.exe
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.pdb
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmNuevoUsuario.resources
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmUsuarios.resources
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.UC_dgv.resources
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\EnvDTE.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\stdole.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\EnvDTE.xml
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmInformes.resources
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.RVRegulares.resources
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.RVBecados.resources
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.RVMatriculasNoPagadas.resources
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.RVMatriculasPagadas.resources
+C:\Users\Eze\Desktop\LUGtp2\LUGtp1\obj\Debug\LUGtp1.RVAlumnosPorCarrera.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\LUGtp1.exe.config
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\LUGtp1.exe
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\LUGtp1.pdb
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\BE.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\BLL.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Security.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Abstraccion.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\MPP.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\EnvDTE.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\stdole.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\BE.pdb
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\BLL.pdb
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Security.pdb
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Abstraccion.pdb
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\MPP.pdb
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\IU.csproj.AssemblyReference.cache
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmAltaAlumno.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmAltaCarrera.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmAltaMateria.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmAltaProfesor.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmCobranzas.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmLogin.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmNuevoUsuario.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmUsuarios.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmInformes.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.Principal.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmAbmAlumno.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmAbmCarrera.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmAbmMateria.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmAbmProfesor.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.Properties.Resources.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.RVAlumnosPorCarrera.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.RVBecados.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.RVMatriculasNoPagadas.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.RVMatriculasPagadas.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.RVRegulares.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.UC_dgv.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\IU.csproj.GenerateResource.cache
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\IU.csproj.CoreCompileInputs.cache
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.exe
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.pdb
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmCorrelatividad.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmCarreraAgregarAlumno.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmCarreraAgregarMateria.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmMateriaAgregarProfesor.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmNotasAlumnos.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\IU.csproj.Up2Date
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmRestore.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmBitacoraBackup.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\LUGtp1.exe.manifest
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\LUGtp1.application
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.exe.manifest
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.application
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmMatriculaModificarPrecio.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\BouncyCastle.Cryptography.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.barcodes.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.bouncy-castle-connector.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.commons.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.forms.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.io.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.kernel.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.layout.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.pdfa.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.pdfua.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.sign.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.styledxmlparser.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.svg.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Newtonsoft.Json.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\System.Buffers.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\System.Memory.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\System.Numerics.Vectors.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\System.ValueTuple.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\BouncyCastle.Cryptography.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.barcodes.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.bouncy-castle-connector.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.commons.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.forms.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.io.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.kernel.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.layout.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.pdfa.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.pdfua.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.sign.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.styledxmlparser.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.svg.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Newtonsoft.Json.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\System.Buffers.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\System.Memory.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\System.Numerics.Vectors.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\System.ValueTuple.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.bouncy-castle-adapter.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\bin\Debug\itext.bouncy-castle-adapter.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmAsistenciaAnteriores.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmAsistenciaControl.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmAsistenciaInforme.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmUsuarioAgregarPermisoIndependiente.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\LUGtp2\LUGtp1\obj\Debug\LUGtp1.FrmRolAgregarRol.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\InstitutoLuna.exe.config
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\InstitutoLuna.exe.manifest
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\InstitutoLuna.application
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\InstitutoLuna.exe
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\InstitutoLuna.pdb
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Abstraccion.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\BE.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\BLL.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\BouncyCastle.Cryptography.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.barcodes.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.bouncy-castle-adapter.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.bouncy-castle-connector.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.commons.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.forms.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.io.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.kernel.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.layout.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.pdfa.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.pdfua.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.sign.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.styledxmlparser.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.svg.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Newtonsoft.Json.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Security.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\System.Buffers.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\System.Memory.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\System.Numerics.Vectors.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\System.ValueTuple.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\MPP.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\EnvDTE.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\stdole.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Abstraccion.pdb
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\BE.pdb
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\BLL.pdb
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Security.pdb
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\BouncyCastle.Cryptography.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.barcodes.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.bouncy-castle-adapter.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.bouncy-castle-connector.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.commons.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.forms.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.io.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.kernel.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.layout.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.pdfa.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.pdfua.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.sign.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.styledxmlparser.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\itext.svg.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\Newtonsoft.Json.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\System.Buffers.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\System.Memory.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\System.Numerics.Vectors.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\System.ValueTuple.xml
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\MPP.pdb
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\IU.csproj.AssemblyReference.cache
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmAsistenciaAnteriores.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmBitacoraBackup.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmCarreraAgregarAlumno.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmCarreraAgregarMateria.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmAlumnoAlta.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmCarreraAlta.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmInformes.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmMateriaAlta.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmProfesorAlta.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmCobranzas.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmAsistenciaControl.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmCorrelatividad.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmAsistenciaInforme.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmLogin.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmMateriaAgregarProfesor.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmMatriculaModificarPrecio.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmNotasAlumnos.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmRolAgregar.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmUsuarioNuevo.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmRestore.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmRolAgregarRol.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmUsuarioAgregarPermisoIndependiente.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmUsuarios.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmDashboard.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.Principal.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmAlumnoABM.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmCarreraABM.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmMateriaABM.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.FrmProfesorABM.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\InstitutoLuna.Properties.Resources.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.RVAlumnosPorCarrera.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.RVBecados.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.RVMatriculasNoPagadas.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.RVMatriculasPagadas.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.RVRegulares.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\LUGtp1.UC_dgv.resources
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\IU.csproj.GenerateResource.cache
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\IU.csproj.CoreCompileInputs.cache
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\InstitutoLuna.exe.manifest
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\InstitutoLuna.application
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\IU.csproj.Up2Date
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\InstitutoLuna.exe
+D:\ARCHIVOS VARIOS\UAI\2DO AÑO\2DO CUATRIMESTRE\LENGUAJES DE ULTIMA GENERACION\Instituto Luna\LUGtp1\obj\Debug\InstitutoLuna.pdb
